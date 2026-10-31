@@ -1,7 +1,7 @@
 # Hi, I'm Joshua Taiwo 👋
 ### Full-Stack Software Engineer & Solutions Developer
 
-[Portfolio]() • [LinkedIn]() • [Email Me](mailto:t.joshua016@outlook.com)
+[Portfolio](https://joshua-taiwo.onrender.com) • [LinkedIn](https://linkedin.com/in/joshtaiwo) • [Email Me](mailto:t.joshua016@outlook.com)
 
 ---
 
